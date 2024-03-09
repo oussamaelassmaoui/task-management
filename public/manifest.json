@@ -1,6 +1,7 @@
 {
 	"short_name": "Task App",
 	"name": "Task App - by Oussama elassmaoui",
+	"version":"0.1",
 	"start_url": ".",
 	"display": "standalone",
 	"theme_color": "#000000",
